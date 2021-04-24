@@ -30,7 +30,7 @@ Hi, I'm Om Bodkhe, I am new, simple & sasta bot devloper
   
   | Project           | URL                        | Description                                         |
   |:-----------------:|:--------------------------:|:---------------------------------------------------:|
-  | DisTube Bot       | https://skick.xyz/DisTube  | A Discord Music Bot                                 |
-  | DisTube           | https://distube.js.org     | A Discord.js module to manage music commands easier |
-  | Skick Is Impostor | https://skick.xyz/Impostor | An Among Us Custom Server in Vietnam                |
+  | Astroz Music 1    | https://skick.xyz/DisTube  | Astroz Music Bot First Bot !                        |
+  | Astroz Music 2    | https://distube.js.org     | Astroz Music Bot Second Bot !                       |
+  | Astroz Music 3    | https://skick.xyz/Impostor | Astroz Music Bot Third Bot !                        |
 </div>
