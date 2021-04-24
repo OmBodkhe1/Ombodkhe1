@@ -30,7 +30,7 @@ Hi, I'm Om Bodkhe, I am new, simple & sasta bot devloper
   
   | Project           | URL                        | Description                                         |
   |:-----------------:|:--------------------------:|:---------------------------------------------------:|
-  | Astroz Music 1    | [Invite](https://discord.com/api/oauth2/authorize?client_id=802423717316919297&permissions=8&scope=bot)  | Astroz Music Bot First Bot !                        |
-  | Astroz Music 2    | https://distube.js.org     | Astroz Music Bot Second Bot !                       |
-  | Astroz Music 3    | https://skick.xyz/Impostor | Astroz Music Bot Third Bot !                        |
+  | Astroz Music 1    | [Invite Now](https://discord.com/api/oauth2/authorize?client_id=802423717316919297&permissions=8&scope=bot)  | Astroz Music Bot First Bot !                        |
+  | Astroz Music 2    | [Invite Now](https://discord.com/api/oauth2/authorize?client_id=812008093655105597&permissions=8&scope=bot)     | Astroz Music Bot Second Bot !                       |
+  | Astroz Music 3    | [Invite Now](https://discord.com/api/oauth2/authorize?client_id=803552574707597312&permissions=8&scope=bot) | Astroz Music Bot Third Bot !                        |
 </div>
