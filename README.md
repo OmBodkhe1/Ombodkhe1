@@ -7,6 +7,8 @@
   | Astroz Music 3    | [Invite Now](https://discord.com/api/oauth2/authorize?client_id=803552574707597312&permissions=8&scope=bot) | Astroz Music Bot Third Bot !                        |
 </div>
 
+### TOP.GG STATS
+
 <a href="https://top.gg/bot/802423717316919297">
   <img src="https://top.gg/api/widget/802423717316919297.svg" alt="Astroz Music" />
   </a>
