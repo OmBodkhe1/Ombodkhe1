@@ -10,5 +10,8 @@
 ### TOP.GG STATS
 
 [![Discord Bots](https://top.gg/api/widget/upvotes/802423717316919297.svg)](https://top.gg/bot/802423717316919297)
+
 [![Discord Bots](https://top.gg/api/widget/status/802423717316919297.svg)](https://top.gg/bot/802423717316919297)
+
 [![Discord Bots](https://top.gg/api/widget/owner/802423717316919297.svg)](https://top.gg/bot/802423717316919297)
+
