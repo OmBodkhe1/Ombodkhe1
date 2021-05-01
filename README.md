@@ -9,6 +9,4 @@
 
 ### TOP.GG STATS
 
-<a href="https://top.gg/bot/802423717316919297">
-  <img src="https://top.gg/api/widget/802423717316919297.svg" alt="Astroz Music" />
-  </a>
+[![Discord Bots](https://top.gg/api/widget/upvotes/802423717316919297.svg)](https://top.gg/bot/802423717316919297)
