@@ -1,5 +1,3 @@
-src="https://cdn.discordapp.com/attachments/812691097922043955/841713182808866876/LOL.jpg"/></a>
-
  <h2>Astroz Music Project</h2> 
   
   | Project           | URL                        | Description                                         |
