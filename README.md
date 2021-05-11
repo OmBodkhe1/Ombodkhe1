@@ -1,6 +1,6 @@
 
 <h2>Om Bodkhe</h2>
-<h3>Country: India</h3>
+<p>Country: India</p>
 
  
  
