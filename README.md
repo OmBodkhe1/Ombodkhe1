@@ -1,4 +1,4 @@
-<a href="https://discord.com/api/oauth2/authorize?client_id=803552574707597312&permissions=8&scope=bot"><img src="https://cdn.discordapp.com/attachments/812691097922043955/841713182808866876/LOL.jpg"/></a>
+src="https://cdn.discordapp.com/attachments/812691097922043955/841713182808866876/LOL.jpg"/></a>
 
  <h2>Astroz Music Project</h2> 
   
