@@ -1,10 +1,4 @@
 
-<h2>Om Bodkhe</h2>
-<p>Country: India</p>
-<p>Language: Marathi</p>
-
- 
- 
  <h2>Astroz Music Project</h2> 
   
   | Project           | URL                        | Description                                         |
