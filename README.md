@@ -1,4 +1,5 @@
-[![Discord Bots](https://cdn.cwkhan.xyz/rro5URLp)
+<a href="https://discord.com/api/oauth2/authorize?client_id=803552574707597312&permissions=8&scope=bot"><img src="https://cdn.cwkhan.xyz/rro5URLp"/></a>
+
  <h2>Astroz Music Project</h2> 
   
   | Project           | URL                        | Description                                         |
