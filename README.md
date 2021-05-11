@@ -1,4 +1,4 @@
-
+[![Discord Bots](https://cdn.cwkhan.xyz/rro5URLp)
  <h2>Astroz Music Project</h2> 
   
   | Project           | URL                        | Description                                         |
