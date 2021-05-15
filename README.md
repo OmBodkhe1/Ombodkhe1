@@ -2,7 +2,7 @@
 
 ## Projects
 
-### <img src="https://user-images.githubusercontent.com/63742759/115108337-3a684e80-9f70-11eb-8ddc-62b719ce14a2.png" alt="Miney" height="20ex"/> Astroz Music - <img src="https://user-images.githubusercontent.com/63742759/115107675-ba8cb500-9f6c-11eb-9edd-666840421f55.png" alt="Discord" height="20ex"/> Discord Bot
+### <img src="https://cdn.discordapp.com/attachments/829299934733139981/829406974507483196/103616e8f3e1c9502673404ce0cae51e_1.png" alt="Miney" height="20ex"/> Astroz Music - <img src="https://user-images.githubusercontent.com/63742759/115107675-ba8cb500-9f6c-11eb-9edd-666840421f55.png" alt="Discord" height="20ex"/> Discord Bot
 
 #### Description
 <img src="https://user-images.githubusercontent.com/63742759/115108337-3a684e80-9f70-11eb-8ddc-62b719ce14a2.png" alt="Miney" height="15ex"/> Miney has been a fun lil' project to work on, since <img src="https://user-images.githubusercontent.com/63742759/115108434-b8c4f080-9f70-11eb-88eb-b1b2dc412487.jpg" alt="Hypixel" height="15ex"/> Hypixel has such a messy API I wrote a *few* lines of code to reformat their API.<br> 
