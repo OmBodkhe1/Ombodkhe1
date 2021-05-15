@@ -1,4 +1,4 @@
-![Discord](https://discord.c99.nl/widget/theme-3/801906805999009802.png)
+![Discord](https://discord.c99.nl/widget/theme-4/801906805999009802.png)
 <h2>Astroz Music Project</h2> 
   
   | Project           | URL                        | Description                                         |
