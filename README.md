@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UCv_ajLgO1n6RiCoMulNJvbw">
     <img align ="left" alt="Om's Youtube" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   </a>
-  
+  <br>
 <a href="https://discord.com/users/801906805999009802/">
   
 <br/>
