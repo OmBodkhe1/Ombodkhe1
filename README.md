@@ -8,9 +8,12 @@
   | Astroz Music 3    | [Invite Now](https://discord.com/api/oauth2/authorize?client_id=803552574707597312&permissions=8&scope=bot) | Astroz Music Bot Third Bot !                        |
 </div>
 
-### TOP.GG STATS
+#### Statistics
 
-[![Discord Bots](https://top.gg/api/widget/upvotes/802423717316919297.svg)](https://top.gg/bot/802423717316919297) [![Discord Bots](https://top.gg/api/widget/status/802423717316919297.svg)](https://top.gg/bot/802423717316919297) [![Discord Bots](https://top.gg/api/widget/servers/802423717316919297.svg)](https://top.gg/bot/802423717316919297) [![Discord Bots](https://top.gg/api/widget/owner/802423717316919297.svg)](https://top.gg/bot/802423717316919297)
+[![Discord Bots](https://top.gg/api/widget/upvotes/802423717316919297.svg)](https://top.gg/bot/802423717316919297)<br>
+[![Discord Bots](https://top.gg/api/widget/status/802423717316919297.svg)](https://top.gg/bot/802423717316919297) <br>
+[![Discord Bots](https://top.gg/api/widget/servers/802423717316919297.svg)](https://top.gg/bot/802423717316919297)<br>
+[![Discord Bots](https://top.gg/api/widget/owner/802423717316919297.svg)](https://top.gg/bot/802423717316919297)<br>
 
 
 
