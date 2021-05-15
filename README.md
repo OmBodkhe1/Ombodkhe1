@@ -23,5 +23,11 @@
 [![Discord Bots](https://top.gg/api/widget/owner/802423717316919297.svg)](https://top.gg/bot/802423717316919297)<br>
 
 
+#### invite Astroz
+
+<img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> [Astroz Music 1](https://discord.com/oauth2/authorize?client_id=802423717316919297&scope=bot&permissions=8) <br>
+<img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> [Astroz Music 2](https://discord.com/oauth2/authorize?client_id=812008093655105597&scope=bot&permissions=8) <br>
+<img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> [Astroz Music 3](https://discord.com/oauth2/authorize?client_id=803552574707597312&scope=bot&permissions=8) <br>
+
 
 
