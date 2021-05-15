@@ -10,7 +10,7 @@
 
 #### Statistics
 
-[![Discord Bots](https://top.gg/api/widget/status/802423717316919297.svg)](https://top.gg/bot/802423717316919297) <br>
+<img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Miney" height="15ex"/> [![Discord Bots](https://top.gg/api/widget/status/802423717316919297.svg)](https://top.gg/bot/802423717316919297) <br>
 [![Discord Bots](https://top.gg/api/widget/upvotes/802423717316919297.svg)](https://top.gg/bot/802423717316919297)<br>
 [![Discord Bots](https://top.gg/api/widget/servers/802423717316919297.svg)](https://top.gg/bot/802423717316919297)<br>
 [![Discord Bots](https://top.gg/api/widget/owner/802423717316919297.svg)](https://top.gg/bot/802423717316919297)<br>
