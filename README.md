@@ -2,7 +2,7 @@
 
 ## Projects
 
-### <img src="https://cdn.discordapp.com/attachments/829299934733139981/829406974507483196/103616e8f3e1c9502673404ce0cae51e_1.png" alt="Miney" height="20ex"/> Astroz Music - <img src="https://user-images.githubusercontent.com/63742759/115107675-ba8cb500-9f6c-11eb-9edd-666840421f55.png" alt="Discord" height="20ex"/> Discord Bot
+### <img src="https://cdn.discordapp.com/attachments/829299934733139981/829406974507483196/103616e8f3e1c9502673404ce0cae51e_1.png" alt="Miney" height="30ex"/> Astroz Music - <img src="https://user-images.githubusercontent.com/63742759/115107675-ba8cb500-9f6c-11eb-9edd-666840421f55.png" alt="Discord" height="20ex"/> Discord Bot
 
 #### Description
 <img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Miney" height="15ex"/> Astroz Music just awesome. The main reason is it stays in vc for 24/7 and online. It responds instantly and a soundcard it's shown
