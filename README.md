@@ -42,8 +42,4 @@
 <img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> [Astroz Music 3](https://discord.com/oauth2/authorize?client_id=803552574707597312&scope=bot&permissions=8) <br>
 
 
-<div>
-     <iframe src="https://www.codashop.com/in/free-fire" frameborder="0" width="1700px" height="1000"></iframe>
-</div>
-
 
