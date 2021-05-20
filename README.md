@@ -21,7 +21,7 @@
 
 #### Features
 
-<img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> Best And Clear Sound Quality <br>
+<img align='center' src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> Best And Clear Sound Quality <br>
 <img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> 30+ Commands <br>
 <img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> 24/7 Feature <br> 
 <img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> Premium Features Free <br>
