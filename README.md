@@ -41,5 +41,19 @@
 <img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> [Astroz Music 2](https://discord.com/oauth2/authorize?client_id=812008093655105597&scope=bot&permissions=8) <br>
 <img src="https://cdn.discordapp.com/emojis/843121726048829460.png?v=1" alt="Astroz Music" height="15ex"/> [Astroz Music 3](https://discord.com/oauth2/authorize?client_id=803552574707597312&scope=bot&permissions=8) <br>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+<!--END_SECTION:activity-->
+
+</details>
+
+
 
 
