@@ -3,4 +3,6 @@
 - [x] Discord Id: 853184935384711178
 - [x] Discord Link: [https://discord.gg/nukezop](https://discord.gg/g45Dkx5zQK)
 <br>
-<embed src="https://ombodkhe.ml" style="width:500px; height: 300px;">
+<iframe src="ombodkhe.ml" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
