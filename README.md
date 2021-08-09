@@ -7,10 +7,9 @@
   <h3 align="center">Om Bodkhe</h3>
 
   <p align="center">
-  </p>
-</p>
-
-- [x] Free Fire Id: 969544288
+  - [x] Free Fire Id: 969544288
 - [x] Discord Id: 853184935384711178
 - [x] Discord Tag: Oᴍ | ᴳᴳ#5760
 - [x] Discord Link: https://discord.gg/g45Dkx5zQK , https://discord.gg/ggop   
+  </p>
+</p>
