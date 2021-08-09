@@ -1,4 +1,4 @@
 - [x] Free Fire Id: 969544288
 - [x] Discord Id: 853184935384711178
 - [x] Discord Tag: Oᴍ | ᴳᴳ#5760
-- [ ] Discord Link: https://discord.gg/g45Dkx5zQK , https://discord.gg/ggop   
+- [x] Discord Link: https://discord.gg/g45Dkx5zQK , https://discord.gg/ggop   
