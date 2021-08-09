@@ -4,17 +4,9 @@
     <img src="https://cdn.discordapp.com/attachments/868530079020490822/874404204968558612/ezgif-6-3f56adb5b582.png" alt="Om Op" width="200" height="200">
   </a>
 
-  <h3 align="center">ALi</h3>
+  <h3 align="center">Om Bodkhe</h3>
 
   <p align="center">
-    ALi a powerful Discord Bot
-    <br />
-    <br />
-    <a href="https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot">Invite ALi</a>
-    ·
-    <a href="https://github.com/brblacky/ALi/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/brblacky/ALi/issues">Request Feature</a>
   </p>
 </p>
 
