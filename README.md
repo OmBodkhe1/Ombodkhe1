@@ -1,7 +1,5 @@
 <div>
-<iframe src="ombodkhe.ml" width="100%" height="300">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+    <iframe src="https://ombodkhe.ml/" frameborder="0"></iframe>
 </div>
 
 
