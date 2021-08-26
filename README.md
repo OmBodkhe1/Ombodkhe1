@@ -1,3 +1,3 @@
-- [x] Free Fire Id: 969544288
-- [x] Discord Tag:  Oᴍ | ᴳᴳ#5760
-- [x] Discord Id:   853184935384711178
+- [x] Free Fire Id : 969544288
+- [x] Discord Tag  : Oᴍ | ᴳᴳ#5760
+- [x] Discord Id   : 853184935384711178
