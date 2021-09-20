@@ -1,3 +1,4 @@
+```js
 {
   "name": "Om Bodkhe",
   "age": "15",
