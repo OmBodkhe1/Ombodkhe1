@@ -7,6 +7,6 @@
 
 # My Bots ✨ 
 <ul>
-  <li>Astroz Music</li>
+  <li>[Astroz Music](https://github.com/Edziuu/Edziuu/blob/main/README.md)</li>
         <li>Shield</li
     </ul>
