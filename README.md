@@ -4,3 +4,9 @@
 
 # Discord Profile ✨
 ![Discord](https://discord.c99.nl/widget/theme-2/853184935384711178.png)
+
+# My Bots ✨ 
+<ul>
+  <li>Astroz Music</li>
+        <li>Shield</li
+    </ul>
