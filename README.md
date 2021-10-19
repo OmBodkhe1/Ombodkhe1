@@ -7,7 +7,6 @@
 
 # My Bots ✨ 
 <ul>
-  <li>Astroz Music</li>
-        <li>Shield</li
-          <a href="https://github.com/Astroz-Music/Astroz-Music/edit/main/README.md">link text</a>
+<p><a href="https://www.w3.org/">W3C</a></p>
+<p><a href="https://www.google.com/">Google</a></p>
     </ul>
