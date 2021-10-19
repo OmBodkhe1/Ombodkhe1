@@ -7,6 +7,6 @@
 
 # My Bots ✨ 
 <ul>
-<p><a href="https://www.w3.org/">W3C</a></p>
-<p><a href="https://www.google.com/">Google</a></p>
-    </ul>
+          <li>Astroz Music</li>
+        <li>Shield</li>
+</ul>
