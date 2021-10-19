@@ -7,7 +7,7 @@
 
 # My Bots ✨ 
 <ul>
-  <li>[Astroz Music](https://github.com/Edziuu/Edziuu/blob/main/README.md)</li>
+  <li>Astroz Music</li>
         <li>Shield</li
-          <a href="url">link text</a>
+          <a href="https://github.com/Astroz-Music/Astroz-Music/edit/main/README.md">link text</a>
     </ul>
