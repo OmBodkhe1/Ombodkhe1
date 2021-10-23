@@ -1,4 +1,4 @@
-![Header]('https://raw.githubusercontent.com/Qoft/qoft/main/footer.png')
+![Header](./header.png)
 <center>
   <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OmBodkhe&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"></img>
 </center>
@@ -11,3 +11,5 @@
           <li>Astroz Music</li>
         <li>Shield</li>
 </ul>
+
+![Footer](./footer.png)
