@@ -1,10 +1,18 @@
-<h1 align="center">I'm Om Bodkhe 👋</h1>
 
-- 😜 You Can call me **Om**!
-- 🌱 I’m currently learning **Javascript**
-- 📫 How to reach me: [Discord](https://discord.gg/Bv5XY6bxvJ)
-- ⚡ Fun fact: **I code for fun**
+<h1 align="center">Hi, I'm <a href="https://github.com/OmBodkhe1">Om Bodkhe</a>!</h1>
+<h3 align="center">Student | Gamer | Developer</h3>
+<p align="center">
+  <strong><a href="https://github.com/OmBodkhe1">Website</a></strong> |
+  <strong><a href="https://discord.com/users/1022807635818455040">Discord</a></strong> |
+  <strong><a href="https://t.me/ombodkhe">Telegram</a></strong> |
+  <strong><a href="https://www.instagram.com/_ombodkhe_15/">Instagram</a></strong>
+</p>
 
-<br>
+<div align="center">
+  <a href="https://discord.com/users/1022807635818455040">
+    <img src="https://lanyard.cnrad.dev/api/1022807635818455040" alt="Discord Presence" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ombodkhe1&count_private=true&show_icons=true&theme=dracula&locale=en" alt="Ombodke1" /></p>
+
+
