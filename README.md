@@ -4,7 +4,7 @@
 <p align="center">
   <strong><a href="https://github.com/OmBodkhe1">Website</a></strong> |
   <strong><a href="https://discord.com/users/1022807635818455040">Discord</a></strong> |
-  <strong><a href="https://t.me/ombodkhe">Telegram</a></strong> |
+  <strong><a href="https://t.me/ombodkhe" target="_blank" >Telegram</a></strong> |
   <strong><a href="https://www.instagram.com/_ombodkhe_15/">Instagram</a></strong>
 </p>
 
