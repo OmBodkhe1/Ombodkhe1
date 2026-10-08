@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/OmBodkhe1">Om Bodkhe</a>!</h1>
 <p align="center">
   <strong><a href="https://github.com/OmBodkhe1">Website</a></strong> |
-  <strong><a href="https://www.instagram.com/ombodkhe15/">Instagram</a></strong>
+  <strong><a href="https://www.instagram.com/_ombodkhe/">Instagram</a></strong>
 </p>
 
 <div align="center">
